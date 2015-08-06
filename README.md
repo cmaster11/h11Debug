@@ -4,11 +4,11 @@ An extendend debug wrapper.
 
 ## Installation
 
-    npm install h11Debug --save
+    npm install h11-debug --save
   
 ## Usage
 
-    var debug = require('h11Debug')('debugID');
+    var debug = require('h11-debug')('debugID');
     
     debug('Debug message');
 

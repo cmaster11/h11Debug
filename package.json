@@ -1,5 +1,5 @@
 {
-  "name": "h11Debug",
+  "name": "h11-debug",
   "version": "0.1.0",
   "description": "An extendend debug wrapper",
   "main": "index.js",
